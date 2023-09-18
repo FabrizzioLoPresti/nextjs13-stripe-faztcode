@@ -1,5 +1,31 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Project Deployed in Vercel: [Stripe App]()
+
+Nextjs 13 Project using:
+
+- Src and App Folder
+- Import Alias (@)
+- ESLint
+- .env.local and .env
+- Google Fonts and TailwindCSS, NextUI and Framer Motion, Flowbite Icons SVG, Tabler Icons
+- Metadata
+- Link and Image Components
+- Layout and Page Structure
+- Client Routes
+- Dynamic Routes
+- API Routes using Route Handlers API
+- Stripe Checkout API
+- Generate Types from Database Tables using Supabase
+- Client and Server Components ('use client' and 'use server')
+- Middlewares for Protected Routes
+- Providers for mantain state in the app of the session
+- Protected API Routes using Route Handlers API
+
+### Links Projects
+
+- [FaztCode - Nextjs Stripe Tutorial - Cobrar Suscripciones](https://www.youtube.com/watch?v=1PimrCYtJ0M)
+
 ## Getting Started
 
 First, run the development server:
