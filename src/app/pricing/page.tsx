@@ -3,6 +3,8 @@
 import PlanCard from '@/components/plan-card'
 import { type Plan } from '@/types/types'
 
+export const dynamic = 'force-dynamic'
+
 const fetchPlans = async () => {
   const response = await fetch(
     `${process.env.NEXT_PUBLIC_BACKEND_URL}/api/prices`,
